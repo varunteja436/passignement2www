@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/passignement2www/static/css/main.96665811.css",
+    "main.js": "/passignement2www/static/js/main.27be8d25.js",
+    "static/js/453.a8967f55.chunk.js": "/passignement2www/static/js/453.a8967f55.chunk.js",
+    "index.html": "/passignement2www/index.html",
+    "main.96665811.css.map": "/passignement2www/static/css/main.96665811.css.map",
+    "main.27be8d25.js.map": "/passignement2www/static/js/main.27be8d25.js.map",
+    "453.a8967f55.chunk.js.map": "/passignement2www/static/js/453.a8967f55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96665811.css",
+    "static/js/main.27be8d25.js"
+  ]
+}
